@@ -1,9 +1,10 @@
 # Bidshop – Bidfood SDET Technical Test
 
-Welcome! This repository is a small two-service application that mimics the
-sort of food-supply e-commerce site Bidfood runs. It intentionally ships with
-**no automated tests** – the goal of the exercise is for you to design and
-build a test suite that you would be comfortable owning in production.
+Welcome! This repository is a small two-service application that mimics the sort of food-supply e-commerce site Bidfood runs. It intentionally ships with no automated tests – the goal of the exercise is for you to design and build a test suite that you would be comfortable owning in production.
+
+## Test Automation
+
+The API and UI test automation approach, setup instructions, execution commands, coverage and trade-offs are documented in [TEST_AUTOMATION_README.md](TEST_AUTOMATION_README.md).
 
 The stack:
 
